@@ -1,7 +1,6 @@
 ## Olá! Eu sou Paulo Nogueira
 
 - 🔭 Atuando no font-end
-- 🌱 Estudando React js
 - 😄 Pronouns: ele/dele
 
 <div> 
