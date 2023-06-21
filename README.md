@@ -1,6 +1,6 @@
 ## Olá! Eu sou Paulo Nogueira
 
-- 🔭 Atuando no front-end
+- 🔭 Desnvolvedor front-end
 - 😄 Pronouns: ele/dele
 
 <div> 
