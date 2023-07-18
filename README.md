@@ -1,6 +1,7 @@
 ## Olá! Eu sou Paulo Nogueira
 
-- 🔭 Desenvolvedor front-end
+- 🔭 I’m currently working as a Freelancer
+- 🌱 I’m currently learning Android
 - 😄 Pronouns: ele/dele
 
 <div> 
