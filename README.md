@@ -1,8 +1,7 @@
-## Olá! Eu sou Paulo Nogueira
+## Hi, i'm Paulo! 
 
 - 🔭 I’m currently working as a Freelancer
 - 🌱 I’m currently learning Android
-- 😄 Pronouns: ele/dele
 
 <div> 
   <a href="https://github.com/pnnog">
