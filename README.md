@@ -37,7 +37,7 @@
 [![Strapi](https://camo.githubusercontent.com/17c52b69ec19ec917854519501c1359aecd05cee895561a15b3ab3fc746efd99/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374726170692d2532333245374545412e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d737472617069266c6f676f436f6c6f723d7768697465)](https://docs.strapi.io/)
 [![webpack](https://img.shields.io/badge/webpack-%23000000.svg?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/)
  
-
+<hr></hr>
 ### GIthub Stats:
 
 <div> 
