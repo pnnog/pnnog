@@ -3,8 +3,6 @@
 ## I'm a enthusiastic student and learner!
 
 - 🔭 I’m currently working as a Freelancer
-- 🌱 I’m currently learning Android
-
 
 ### Connect with me:
 
